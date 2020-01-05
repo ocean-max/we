@@ -1,3 +1,2 @@
 i=1,j=2;
-h=i+j
-print(h)
+print(j)
